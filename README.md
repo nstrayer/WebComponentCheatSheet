@@ -72,10 +72,9 @@ export class IconButton extends HTMLElement {
 
 customElements.define("icon-button", IconButton);
 ```
-<icon-button value = 42> </icon-button>
+
 ```html
+<icon-button value = 42> </icon-button>
+```
 
 ![image](https://user-images.githubusercontent.com/6764693/123310644-4cc4b280-d4f4-11eb-9689-76261e612ce1.png)
-
-
-```
